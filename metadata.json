@@ -1,0 +1,10 @@
+{
+  "name": "Briefly.",
+  "description": "Your personalized AI news aggregator. Select your interests and get a curated daily briefing from renowned sources, powered by Gemini and Google Search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
